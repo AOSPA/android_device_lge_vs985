@@ -74,5 +74,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     device/lge/d855/prebuilt/etc/ad_calib.cfg:system/etc/ad_calib.cfg
 
+# Boot Cleaner
+PRODUCT_COPY_FILES += \
+    device/lge/vs985/prebuilt/etc/init.d/81clean:system/etc/init.d/81clean
+
 # common g3
 $(call inherit-product, device/lge/g3-common/g3.mk)

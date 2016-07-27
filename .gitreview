@@ -1,0 +1,6 @@
+[gerrit]
+host=gerrit.aospa.co
+port=29418
+project=AOSPA/android_device_lge_vs985
+defaultbranch=marshmallow-caf
+

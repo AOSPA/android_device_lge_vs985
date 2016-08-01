@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7afa4931_61f35074",
+        "filename": "system.prop",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2016-08-01T03:55:04Z",
+      "side": 1,
+      "message": "Unused hardware props are still here.",
+      "revId": "e47f738926203e46364c18e21a10ea2e2ae1e53e",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    }
+  ]
+}
